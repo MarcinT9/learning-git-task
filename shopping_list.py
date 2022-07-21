@@ -12,4 +12,6 @@ element = shopping_list['piekarnia'] + shopping_list['warzywniak']
 
 print(f'W sumie kupuję {len(element)} produktów.')
 
-print('Na porzeby zadania pierwsza zmiana')
+print('Na potrzeby zadania pierwsza zmiana')
+
+print('Na potrzeby zadania druga zmiana')
