@@ -11,3 +11,5 @@ for shop, product in shopping_list.items():
 element = shopping_list['piekarnia'] + shopping_list['warzywniak']
 
 print(f'W sumie kupuję {len(element)} produktów.')
+
+print('Na porzeby zadania pierwsza zmiana')
