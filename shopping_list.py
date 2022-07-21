@@ -15,3 +15,5 @@ print(f'W sumie kupuję {len(element)} produktów.')
 print('Na potrzeby zadania pierwsza zmiana')
 
 print('Na potrzeby zadania druga zmiana')
+
+print('Na potrzeby zadania trzecia zmiana')
