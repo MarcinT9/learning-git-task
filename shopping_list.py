@@ -17,3 +17,5 @@ print('Na potrzeby zadania pierwsza zmiana')
 print('Na potrzeby zadania druga zmiana')
 
 print('Na potrzeby zadania trzecia zmiana')
+
+print('Nowy branch - Będzie Pan zadowolony')
